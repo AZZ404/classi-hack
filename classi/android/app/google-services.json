@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662545958106",
+    "firebase_url": "https://classi-3cc8d.firebaseio.com",
+    "project_id": "classi-3cc8d",
+    "storage_bucket": "classi-3cc8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662545958106:android:5b17ea801c3ed259b111e3",
+        "android_client_info": {
+          "package_name": "com.moazmar.classi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662545958106-h2l9pqk4a5n61lp7grjspdfkt8lj8l6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Bn9JLrIhp8MBJMwIkcyU8MxHc15N6zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662545958106-h2l9pqk4a5n61lp7grjspdfkt8lj8l6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
